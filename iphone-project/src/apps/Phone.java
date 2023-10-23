@@ -1,9 +1,9 @@
 package apps;
 
 public interface Phone {
-    public void call();
+    void call();
 
-    public void answerCall();
+    void answerCall();
 
-    public void startVoiceMail();
+    void startVoiceMail();
 }

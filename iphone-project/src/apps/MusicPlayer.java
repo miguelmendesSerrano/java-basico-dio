@@ -1,9 +1,9 @@
 package apps;
 
 public interface MusicPlayer {
-    public void playMusic();
+    void playMusic();
 
-    public void pauseMusic();
+    void pauseMusic();
 
-    public void selectMusic();
+    void selectMusic();
 }

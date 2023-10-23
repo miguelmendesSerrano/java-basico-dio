@@ -1,9 +1,9 @@
 package apps;
 
 public interface Browser {
-    public void addNewTab();
+    void addNewTab();
 
-    public void refreshPage();
+    void refreshPage();
 
-    public void viewPage();
+    void viewPage();
 }
